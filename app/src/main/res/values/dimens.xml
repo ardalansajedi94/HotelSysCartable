@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="tab_max_width" tools:ignore="MissingDefaultResource">264dp</dimen>
+    <dimen name="tab_padding_bottom" tools:ignore="MissingDefaultResource">16dp</dimen>
+    <dimen name="tab_label" tools:ignore="MissingDefaultResource">14sp</dimen>
+    <dimen name="custom_tab_layout_height" tools:ignore="MissingDefaultResource">60dp</dimen>
+</resources>

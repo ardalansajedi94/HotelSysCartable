@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1779a2</color>
+    <color name="colorPrimaryDark">#1779a2</color>
+    <color name="colorAccent">#ffae00</color>
+    <color name="light_grey">#eeeeee</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="dark_white">#e0e0e0</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="request_items_title">#7c7a7a</color>
+    <color name="bgColor">#efefef</color>
+    <color name="in_progress_color">#ecad3e</color>
+    <color name="finished_color">#00a000</color>
+    <color name="cancelled_color">#be0000</color>
+    <color name="shadow">#7d000000</color>
+</resources>

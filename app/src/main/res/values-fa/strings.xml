@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">کارتابل </string>
+    <string name="username" tools:ignore="ExtraTranslation">نام کاربری</string>
+    <string name="password" tools:ignore="ExtraTranslation">کلمه عبور</string>
+    <string name="login" tools:ignore="ExtraTranslation">ورود</string>
+    <string name="usernameError" tools:ignore="ExtraTranslation">نام کاربری نباید خالی باشد</string>
+    <string name="passwordError" tools:ignore="ExtraTranslation">کلمه عبور نباید خالی باشد</string>
+    <string name="wait" tools:ignore="ExtraTranslation">لطفا چند لحظه صبر کنید</string>
+    <string name="invalid_credentials" tools:ignore="ExtraTranslation">نام کاربری و یا رمزعبور اشتباه است</string>
+    <string name="network_problem" tools:ignore="ExtraTranslation">مشکلی در شبکه پیش آمده است</string>
+    <string name="general_cartable" tools:ignore="ExtraTranslation">کارتابل عمومی</string>
+    <string name="my_cartable" tools:ignore="ExtraTranslation">کارتابل من</string>
+    <string name="news" tools:ignore="ExtraTranslation">اخبار داخلی</string>
+    <string name="instructions" tools:ignore="ExtraTranslation">دستورالعمل های هتل</string>
+    <string name="drawer_open" tools:ignore="ExtraTranslation">باز کردن</string>
+    <string name="drawer_close" tools:ignore="ExtraTranslation">بستن</string>
+    <string name="internet" tools:ignore="ExtraTranslation">اینترنت</string>
+    <string name="need_net_desc" tools:ignore="ExtraTranslation">برای دسترسی به این قسمت باید به اینترنت متصل باشید</string>
+    <string name="settings" tools:ignore="ExtraTranslation">تنظیمات</string>
+    <string name="profile" tools:ignore="ExtraTranslation">پروفایل</string>
+    <string name="add_task" tools:ignore="ExtraTranslation">افزودن وظیفه</string>
+    <string name="signOut" tools:ignore="ExtraTranslation">خروج از حساب کاربری</string>
+    <string name="signOutDesc" tools:ignore="ExtraTranslation">آیا واقعا قصد خروج از حساب کاربری را دارید؟</string>
+    <string name="request_no" tools:ignore="ExtraTranslation">شماره درخواست:</string>
+    <string name="request_type" tools:ignore="ExtraTranslation">نوع درخواست:</string>
+    <string name="requester" tools:ignore="ExtraTranslation">درخواست دهنده:</string>
+    <string name="request_date" tools:ignore="ExtraTranslation">زمان درخواست:</string>
+    <string name="state" tools:ignore="ExtraTranslation">وضعیت:</string>
+    <string name="room" tools:ignore="ExtraTranslation">اتاق</string>
+    <string name="management" tools:ignore="ExtraTranslation">مدیریت</string>
+    <string name="title" tools:ignore="ExtraTranslation">عنوان</string>
+    <string name="content" tools:ignore="ExtraTranslation">محتوا</string>
+    <string name="role" tools:ignore="ExtraTranslation">نقش</string>
+    <string name="employee" tools:ignore="ExtraTranslation">کارمند</string>
+    <string name="send" tools:ignore="ExtraTranslation">ارسال</string>
+    <string name="success" tools:ignore="ExtraTranslation">عملیات با موفقیت انجام شد</string>
+    <string name="name" tools:ignore="ExtraTranslation">نام</string>
+    <string name="national_id" tools:ignore="ExtraTranslation">کد ملی</string>
+    <string name="mobile_no" tools:ignore="ExtraTranslation">شماره موبایل</string>
+    <string name="request" tools:ignore="ExtraTranslation">درخواست:</string>
+    <string name="request_detail" tools:ignore="ExtraTranslation">جزئیات درخواست:</string>
+    <string name="management_explanation" tools:ignore="ExtraTranslation">توضیح مدیریت:</string>
+    <string name="operation" tools:ignore="ExtraTranslation">عملیات:</string>
+    <string name="submit" tools:ignore="ExtraTranslation">ثبت</string>
+    <string name="food_order" tools:ignore="ExtraTranslation">سفارش غذا</string>
+    <string name="guest" tools:ignore="ExtraTranslation">مهمان</string>
+    <string name="time" tools:ignore="ExtraTranslation">ساعت</string>
+    <string name="request_log" tools:ignore="ExtraTranslation">لاگ درخواست:</string>
+    <string name="date" tools:ignore="ExtraTranslation">زمان:</string>
+    <string name="assigner" tools:ignore="ExtraTranslation">محول کننده:</string>
+    <string name="worker" tools:ignore="ExtraTranslation">انجام دهنده:</string>
+    <string name="response" tools:ignore="ExtraTranslation">پاسخ:</string>
+    <string name="explanation" tools:ignore="ExtraTranslation">توضیح:</string>
+    <string name="order_name" tools:ignore="ExtraTranslation">نام سفارش:</string>
+    <string name="restaurant_name" tools:ignore="ExtraTranslation">نام مکان:</string>
+    <string name="type" tools:ignore="ExtraTranslation">نوع:</string>
+    <string name="count" tools:ignore="ExtraTranslation">تعداد:</string>
+    <string name="write_permission_desc" tools:ignore="ExtraTranslation">برای امکان ذخیره عکس در گالری نیاز به دسترسی نوشتن در کارت حافظه داریم</string>
+    <string name="from_camera" tools:ignore="ExtraTranslation">از دوربین</string>
+    <string name="from_gallery" tools:ignore="ExtraTranslation">از گالری</string>
+    <string name="cancel" tools:ignore="ExtraTranslation">انصراف</string>
+    <string name="change_profile_photo_desc" tools:ignore="ExtraTranslation">چگونه میخواهید آواتار خود را تغییر دهید؟</string>
+    <string name="add_image_desc" tools:ignore="ExtraTranslation">عکس را از کجا وارد میکنید؟</string>
+    <string name="uploaded" tools:ignore="ExtraTranslation">با موفقیت آپلود شد</string>
+    <string name="cartable_empty" tools:ignore="ExtraTranslation">هیچ درخواستی وجود ندارد</string>
+    <string name="add_image" tools:ignore="ExtraTranslation">افزودن تصویر</string>
+</resources>
